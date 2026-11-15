@@ -1,0 +1,6 @@
+{
+  "name": "File Drop",
+  "description": "Telefon, tablet ve bilgisayar arasında QR kodu veya 6 karakterli oda koduyla doğrudan ve uçtan uca şifreli dosya aktarımı.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">File Drop</string>
+    <string name="title_activity_main">File Drop</string>
+    <string name="package_name">space.manus.filedrop.debug</string>
+    <string name="custom_url_scheme">space.manus.filedrop.debug</string>
+</resources>
